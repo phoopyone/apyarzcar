@@ -3,7 +3,7 @@
 "linkone": "https://phoopyone.github.io/",
 "linktwo": "",
 "appId": "",
-"banner": "",
+"banner": "ca-app-pub-3940256099942544/6300978111",
 "native": "",
 "title": "Updated",
 "about": "Updated for new and More Videos",
