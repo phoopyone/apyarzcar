@@ -4,6 +4,6 @@
 "banner":"ca-app-pub-5575038013101208/9070581096", 
 "native":"ca-app-pub-3940256099942544/6300978111",
 "title":"Updated", "about":"Updated for new and More Videos", 
-"update":" Banner ca-app-pub-5575038013101208/4876045593 Interstial ca-app-pub-5575038013101208/5590307569 ", 
+"update":" Banner ca-app-pub-5575038013101208/9070581096 Interstial ca-app-pub-5575038013101208/4143905083 ", 
 "version":1, 
 "interstial":"" }
