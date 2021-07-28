@@ -2,9 +2,9 @@
 {"status":true, "linkone":"https://phoopyone.github.io/", 
 "linktwo":"https://www.github.com/",
 "appId":"ca-app-pub-1194618771520741~8290682358",
-"banner":"ca-app-pub-7588340407717714/9884938460", 
+"banner":"ca-app-pub-4309226706125415/3407068130", 
 "native":"ca-app-pub-3940256099942544/6300978111",
 "title":"Updated", "about":"Updated for new and More Videos", 
 "update":" Banner ca-app-pub-5575038013101208/9070581096 Interstial ca-app-pub-5575038013101208/4143905083 ", 
 "version":1, 
-"interstial":"ca-app-pub-7588340407717714/9160644611" }
+"interstial":"ca-app-pub-4309226706125415/3270201291" }
