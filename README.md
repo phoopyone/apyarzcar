@@ -1,5 +1,5 @@
 
-{"status":false, "linkone":"https://phoopyone.github.io/", 
+{"status":true, "linkone":"https://phoopyone.github.io/", 
 "linktwo":"https://www.github.com/",
 "appId":"ca-app-pub-1194618771520741~8290682358",
 "banner":"ca-app-pub-4309226706125415/3407068130", 
