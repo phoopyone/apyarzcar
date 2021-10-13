@@ -1,10 +1,11 @@
 
-{"status":true, "linkone":"https://phoopyone.github.io/", 
+{"status":false, 
+"linkone":"https://phoopyone.github.io/", 
 "linktwo":"https://www.github.com/",
 "appId":"",
 "banner":"", 
 "native":"",
 "title":"Updated", "about":"Updated for new and More Apyar Videos", 
-"update":"master.apyar.apyarkarr", 
+"update":"com.apyar.unityads", 
 "version":1, 
 "interstial":""}
