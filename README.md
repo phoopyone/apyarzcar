@@ -1,6 +1,6 @@
 
 {"status":false, 
-"linkone":"https://phoopyone.github.io/", 
+"linkone":"", 
 "linktwo":"https://www.github.com/",
 "appId":"",
 "banner":"", 
